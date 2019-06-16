@@ -2,9 +2,9 @@
 理念：安全、隐私、快捷、高效、低成本  
 
 一、软件  
-------
+======
 1、Alfred 4  
----
+--
 类别：效率  
 开源：否  
 官网：https://www.alfredapp.com/  
@@ -15,6 +15,7 @@
      使用界面支持中文  
 
 2、PopClip  
+--
 类别：效率  
 开源：是  
 官网：https://pilotmoon.com/popclip/  
@@ -23,6 +24,7 @@
      使用界面支持中文  
 
 3、AppCleaner  
+--
 类别：效率  
 开源：未知  
 官网：https://freemacsoft.net/appcleaner/  
@@ -30,6 +32,7 @@
 界面：英文  
 
 4、Keka  
+--
 类别：解压缩工具  
 开源：是  
 官网：https://www.keka.io/en/  
@@ -39,6 +42,7 @@
 界面：支持中文  
 
 5、OnyX  
+--
 类别：系统辅助工具  
 开源：是  
 官网：https://www.titanium-software.fr/en/onyx.html  
@@ -46,6 +50,7 @@
 界面：支持中文  
 
 6、AVG AntiVirus  
+--
 类别：安全工具  
 开源：否  
 官网：https://www.avg.com/  
@@ -53,6 +58,7 @@
 界面：英文  
 
 7、LuLu  
+--
 类别：安全工具  
 开源：是  
 官网：https://objective-see.com/  
@@ -60,6 +66,7 @@
 界面：英文  
 
 8、OverSight  
+--
 类别：安全工具  
 开源：是  
 官网：https://objective-see.com/  
@@ -67,6 +74,7 @@
 界面：英文  
 
 9、ReiKey  
+--
 类别：安全工具  
 开源：是  
 官网：https://objective-see.com/  
@@ -74,6 +82,7 @@
 界面：英文  
 
 10、TaskExplorer  
+--
 类别：安全工具  
 开源：是  
 官网：https://objective-see.com/  
@@ -81,6 +90,7 @@
 界面：英文  
 
 11、Do Not Disturb  
+--
 类别：安全工具  
 开源：是  
 官网：https://objective-see.com/  
@@ -88,6 +98,7 @@
 界面：英文  
 
 12、Firefox  
+--
 类别：浏览器  
 开源：是  
 官网：https://www.mozilla.org/en-US/  
@@ -97,6 +108,7 @@
 https://www.firefox.com.cn/?utm_medium=referral&utm_source=mozilla.org  
 
 13、Google Chrome  
+--
 类别：浏览器  
 开源：否  
 官网：https://www.google.com/chrome/  
@@ -104,6 +116,7 @@ https://www.firefox.com.cn/?utm_medium=referral&utm_source=mozilla.org
 界面：支持中文  
 
 14、	Enpass  
+--
 类别：密码管理工具  
 开源：是  
 官网：https://www.enpass.io/  
@@ -111,6 +124,7 @@ https://www.firefox.com.cn/?utm_medium=referral&utm_source=mozilla.org
 界面：支持中文  
 
 15、Authy Desktop  
+--
 类别：密码管理工具  
 开源：否  
 官网：https://authy.com/  
@@ -118,6 +132,7 @@ https://www.firefox.com.cn/?utm_medium=referral&utm_source=mozilla.org
 界面：英文  
 
 16、VeraCrypt  
+--
 类别：加密工具  
 开源：是  
 官网：https://www.veracrypt.fr/en/Home.html  
@@ -125,6 +140,7 @@ https://www.firefox.com.cn/?utm_medium=referral&utm_source=mozilla.org
 界面：英文  
 
 17、Boom 3D  
+--
 类别：音效工具  
 开源：否  
 官网：https://www.globaldelight.com/boom/index.php  
@@ -134,6 +150,7 @@ https://www.firefox.com.cn/?utm_medium=referral&utm_source=mozilla.org
 界面：支持中文  
 
 18、Bluetooth Explorer  
+--
 类别：蓝牙工具  
 开源：未知  
 官网：https://developer.apple.com/bluetooth/  
@@ -141,6 +158,7 @@ https://www.firefox.com.cn/?utm_medium=referral&utm_source=mozilla.org
 界面：英文  
 
 19、iStat Menus  
+--
 类别：系统辅助工具  
 开源：未知    
 官网：https://bjango.com/mac/istatmenus/  
@@ -150,6 +168,7 @@ https://www.firefox.com.cn/?utm_medium=referral&utm_source=mozilla.org
 界面：支持中文  
 
 20、Amphetamine  
+--
 类别：系统辅助工具  
 开源：未知  
 官网：Mac App Store  
@@ -157,6 +176,7 @@ https://www.firefox.com.cn/?utm_medium=referral&utm_source=mozilla.org
 界面：英文  
 
 21、Dozer  
+--
 类别：系统辅助工具  
 开源：是  
 官网：https://github.com/Mortennn/Dozer  
@@ -164,15 +184,19 @@ https://www.firefox.com.cn/?utm_medium=referral&utm_source=mozilla.org
 界面：英文  
 
 22、I2PLauncher  
+--
 翻墙用的，不懂不解释。  
 
 23、ShadowsocksX-R  
+--
 翻墙用的，不懂不解释。  
 
 24、Resilio Sync  
+--
 翻墙用的，不懂不解释。    
 
 25、Thunderbird  
+--
 类别：电子邮件管理工具  
 开源：是  
 官网：https://www.thunderbird.net/en-US/  
@@ -180,6 +204,7 @@ https://www.firefox.com.cn/?utm_medium=referral&utm_source=mozilla.org
 界面：支持中文  
 
 26、Free Download Manager  
+--
 类别：下载工具  
 开源：否  
 官网：https://www.freedownloadmanager.org/  
@@ -187,6 +212,7 @@ https://www.firefox.com.cn/?utm_medium=referral&utm_source=mozilla.org
 界面：支持中文  
 
 27、GoodSync  
+--
 类别：文件同步工具（包括云端同步）  
 开源：否  
 官网：https://www.goodsync.com/  
@@ -194,6 +220,7 @@ https://www.firefox.com.cn/?utm_medium=referral&utm_source=mozilla.org
 界面：支持中文  
 
 28、Signal  
+--
 类别：加密即时通讯工具  
 开源：否  
 官网：https://signal.org/  
@@ -201,6 +228,7 @@ https://www.firefox.com.cn/?utm_medium=referral&utm_source=mozilla.org
 界面：支持中文  
 
 29、Google Earth Pro  
+--
 类别：地图工具  
 开源：否  
 官网：https://support.google.com/earth/answer/168344  
@@ -208,6 +236,7 @@ https://www.firefox.com.cn/?utm_medium=referral&utm_source=mozilla.org
 界面：支持中文  
 
 30、IINA  
+--
 类别：影音播放工具  
 开源：是  
 官网：https://iina.io/  
@@ -215,6 +244,7 @@ https://www.firefox.com.cn/?utm_medium=referral&utm_source=mozilla.org
 界面：支持中文  
 
 31、Colibri  
+--
 类别：音乐播放器  
 开源：未知  
 官网：Mac App Store  
@@ -222,6 +252,7 @@ https://www.firefox.com.cn/?utm_medium=referral&utm_source=mozilla.org
 界面：英文  
 
 32、VirtualDJ 8  
+--
 类别：音乐工具  
 开源：否  
 官网：https://www.virtualdj.com/  
@@ -230,6 +261,7 @@ https://www.firefox.com.cn/?utm_medium=referral&utm_source=mozilla.org
 界面：中文  
 
 33、Caliber  
+--
 类别：电子书管理工具  
 开源：是  
 官网：https://calibre-ebook.com/  
@@ -237,6 +269,7 @@ https://www.firefox.com.cn/?utm_medium=referral&utm_source=mozilla.org
 界面：支持中文  
 
 34、Skim  
+--
 类别：PD阅读工具  
 开源：是  
 官网：https://skim-app.sourceforge.io/  
@@ -244,6 +277,7 @@ https://www.firefox.com.cn/?utm_medium=referral&utm_source=mozilla.org
 界面：支持中文  
 
 35、GIMP-2.10  
+--
 类别：图片管理工具  
 开源：是  
 官网：https://www.gimp.org/  
@@ -251,6 +285,7 @@ https://www.firefox.com.cn/?utm_medium=referral&utm_source=mozilla.org
 界面：支持中文  
 
 36、VirtualBox  
+--
 类别：虚拟机  
 开源：是  
 官网：https://www.virtualbox.org/  
@@ -258,18 +293,23 @@ https://www.firefox.com.cn/?utm_medium=referral&utm_source=mozilla.org
 界面：支持中文  
 
 37、Microsoft Excel  
+--
 不解释  
 
 38、Microsoft PowerPoint  
+--
 不解释  
 
 39、Microsoft Word  
+--
 不解释  
 
 
 
 二、设置Firefox使用  
+===
 一．	隐私专用扩展  
+--
 1、	CanvasBlocker  
 
 2、	Cookie AutoDelete  
@@ -291,6 +331,7 @@ https://www.firefox.com.cn/?utm_medium=referral&utm_source=mozilla.org
 10、	NoScript Security Suite  
 
 二、隐私高级设置  
+--
 说明：1.在浏览器的网址列輸入 "about:config" 并点击 enter 键。  
      2.点击"I'll be careful, I promise!（我了解此风险）"按钮。  
      3.在搜索栏填写例如"privacy.firstparty.isolate"的关键字  
