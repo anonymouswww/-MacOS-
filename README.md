@@ -105,7 +105,7 @@ https://www.firefox.com.cn/?utm_medium=referral&utm_source=mozilla.org
 类别：密码管理工具  
 开源：是  
 官网：https://www.enpass.io/  
-收费：免费下载，高级功11.99美元 （截至2019.06.15）  
+收费：免费下载，高级功能11.99美元 （截至2019.06.15）  
 界面：支持中文  
 
 15、Authy Desktop  
