@@ -1,5 +1,6 @@
  # -MacOS-个人使用MacOS软件及设置备忘录
 理念：安全、隐私、快捷、高效、低成本  
+==========
 
 一、软件  
 ======
@@ -31,8 +32,7 @@
 --
 类别：解压缩工具  
 开源：是  
-官网：https://www.keka.io/en/  
-     Mac App Store  
+官网：https://www.keka.io/en/  Mac App Store  
 收费：官网 免费。Mac App Store人民币18元 （截至2019.06.15）  
 界面：支持中文  
 
@@ -138,8 +138,7 @@ https://www.firefox.com.cn/?utm_medium=referral&utm_source=mozilla.org
 --
 类别：音效工具  
 开源：否  
-官网：https://www.globaldelight.com/boom/index.php  
-      Mac App Store  
+官网：https://www.globaldelight.com/boom/index.php   Mac App Store  
 收费：官网 人民币124.5元 （截至2019.06.15）。Mac App Store 人民币158元。 （截至2019.06.15）  
 界面：支持中文  
 
@@ -155,8 +154,7 @@ https://www.firefox.com.cn/?utm_medium=referral&utm_source=mozilla.org
 --
 类别：系统辅助工具  
 开源：未知    
-官网：https://bjango.com/mac/istatmenus/  
-      Mac App Store  
+官网：https://bjango.com/mac/istatmenus/  Mac App Store  
 收费：官网 人民币50元 （截至2019.06.15）。Mac App Store人民币68元 （截至2019.06.15）  
 界面：支持中文  
 
@@ -248,8 +246,7 @@ https://www.firefox.com.cn/?utm_medium=referral&utm_source=mozilla.org
 --
 类别：音乐工具  
 开源：否  
-官网：https://www.virtualdj.com/  
-     Mac App Store  
+官网：https://www.virtualdj.com/   Mac App Store  
 收费：高级功能收费  
 界面：中文  
 
@@ -326,11 +323,12 @@ https://www.firefox.com.cn/?utm_medium=referral&utm_source=mozilla.org
 二、隐私高级设置  
 --
 说明：
-A.在浏览器的网址列輸入 "about:config" 并点击 enter 键。  
-B.点击"I'll be careful, I promise!（我了解此风险）"按钮。  
-C.在搜索栏填写例如"privacy.firstparty.isolate"的关键字  
-D.双击搜索出的条例，然后进行修改。  
-E.重启Firefox使设置生效（有些修改可不必重启）。 
+--
+A、〔方案選單〕 在浏览器的网址列輸入 "about:config" 并点击 enter 键。  
+B、点击"I'll be careful, I promise!（我了解此风险）"按钮。  
+C、在搜索栏填写例如"privacy.firstparty.isolate"的关键字  
+D、双击搜索出的条例，然后进行修改。  
+E、重启Firefox使设置生效（有些修改可不必重启）。 
 
 开始动手:
 ---
@@ -399,8 +397,7 @@ Only send Referer header when the full hostnames match. (Note: if you notice sig
 2 = Send Referer only when the full hostnames match  
 
 18、network.http.referer.XOriginTrimmingPolicy = 2  
-When sending Referer across origins, only send scheme, host, and port in the Referer header of cross-origin requests. Source 
-  
+When sending Referer across origins, only send scheme, host, and port in the Referer header of cross-origin requests. Source   
 0 = Send full url in Referer  
 1 = Send url without query string in Referer  
 2 = Only send scheme, host, and port in Referer  
