@@ -8,11 +8,8 @@
 类别：效率  
 开源：否  
 官网：https://www.alfredapp.com/  
-收费：可免费下载使用，Powerpack功能需要购买  
-     V4版 23英镑。（截至2019.06.15）   
-     终身升级 39英镑。（截至2019.06.15）  
-界面：设置界面英文  
-     使用界面支持中文  
+收费：可免费下载使用，Powerpack功能V4版 23英镑,终身升级版 39英镑。（截至2019.06.15）  
+界面：设置界面英文,使用界面支持中文。    
 
 2、PopClip  
 --
@@ -20,8 +17,7 @@
 开源：是  
 官网：https://pilotmoon.com/popclip/  
 收费：9.99美元 （截至2019.06.15）  
-界面：设置界面英文  
-     使用界面支持中文  
+界面：设置界面英文,使用界面支持中文。     
 
 3、AppCleaner  
 --
@@ -37,8 +33,7 @@
 开源：是  
 官网：https://www.keka.io/en/  
      Mac App Store  
-收费：官网 免费  
-     Mac App Store人民币18元 （截至2019.06.15）  
+收费：官网 免费。Mac App Store人民币18元 （截至2019.06.15）  
 界面：支持中文  
 
 5、OnyX  
@@ -104,7 +99,7 @@
 官网：https://www.mozilla.org/en-US/  
 收费：否  
 界面：支持中文  
-特别备注：请勿使用中文版官网下载，即以下网址  
+`特别备注：请勿使用中文版官网下载，即不能从以下网址下载`  
 https://www.firefox.com.cn/?utm_medium=referral&utm_source=mozilla.org  
 
 13、Google Chrome  
@@ -145,13 +140,12 @@ https://www.firefox.com.cn/?utm_medium=referral&utm_source=mozilla.org
 开源：否  
 官网：https://www.globaldelight.com/boom/index.php  
       Mac App Store  
-收费：官网 人民币124.5元 （截至2019.06.15）  
-      Mac App Store 人民币158元 （截至2019.06.15）  
+收费：官网 人民币124.5元 （截至2019.06.15）。Mac App Store 人民币158元。 （截至2019.06.15）  
 界面：支持中文  
 
 18、Bluetooth Explorer  
 --
-类别：蓝牙工具  
+类别：蓝牙控制工具  
 开源：未知  
 官网：https://developer.apple.com/bluetooth/  
 收费：否  
@@ -163,8 +157,7 @@ https://www.firefox.com.cn/?utm_medium=referral&utm_source=mozilla.org
 开源：未知    
 官网：https://bjango.com/mac/istatmenus/  
       Mac App Store  
-收费：官网 人民币50元 （截至2019.06.15）  
-      Mac App Store人民币68元 （截至2019.06.15）  
+收费：官网 人民币50元 （截至2019.06.15）。Mac App Store人民币68元 （截至2019.06.15）  
 界面：支持中文  
 
 20、Amphetamine  
@@ -185,15 +178,15 @@ https://www.firefox.com.cn/?utm_medium=referral&utm_source=mozilla.org
 
 22、I2PLauncher  
 --
-翻墙用的，不懂不解释。  
+“非法”网上躲猫猫用的，不懂不解释。  
 
 23、ShadowsocksX-R  
 --
-翻墙用的，不懂不解释。  
+“非法”翻墙用的，不懂不解释。  
 
 24、Resilio Sync  
 --
-翻墙用的，不懂不解释。    
+“非法”同步用的，不懂不解释。    
 
 25、Thunderbird  
 --
@@ -332,12 +325,15 @@ https://www.firefox.com.cn/?utm_medium=referral&utm_source=mozilla.org
 
 二、隐私高级设置  
 --
-说明：1.在浏览器的网址列輸入 "about:config" 并点击 enter 键。  
-     2.点击"I'll be careful, I promise!（我了解此风险）"按钮。  
-     3.在搜索栏填写例如"privacy.firstparty.isolate"的关键字  
-     4.双击搜索出的条例，然后进行修改。  
-     5.重启Firefox使设置生效（有些修改可不必重启）。  
-开始动手:  
+说明：
+A.在浏览器的网址列輸入 "about:config" 并点击 enter 键。  
+B.点击"I'll be careful, I promise!（我了解此风险）"按钮。  
+C.在搜索栏填写例如"privacy.firstparty.isolate"的关键字  
+D.双击搜索出的条例，然后进行修改。  
+E.重启Firefox使设置生效（有些修改可不必重启）。 
+
+开始动手:
+---
 1、privacy.firstparty.isolate = true  
 Tor Uplift效用的结果，它可隔绝主要访问网域中所有浏览器辨识器来源（如 cookies），并期能可阻挡跨域名的追踪。（如果已使用扩展 "Cookie AutoDelete"，请不要打开此功能。  
 
