@@ -309,7 +309,7 @@ Mac App Store下载：有
 
 二、设置Firefox使用  
 ===
-一．	Firefox隐私专用扩展  
+（一）、	Firefox隐私专用扩展  
 --
 1、	CanvasBlocker  
 https://addons.mozilla.org/en-US/firefox/addon/canvasblocker/  
@@ -341,7 +341,7 @@ https://addons.mozilla.org/en-US/firefox/addon/umatrix/
 10、	NoScript Security Suite  
 https://addons.mozilla.org/en-US/firefox/addon/noscript/  
 
-二、Firefox隐私高级设置  
+（二）、Firefox隐私高级设置  
 --
 说明：
 --
