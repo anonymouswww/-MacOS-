@@ -247,7 +247,7 @@ Mac App Store下载：有
 
 32、VirtualDJ 8  
 --
-类别：音乐工具  
+类别：音乐处理工具  
 开源：否  
 官网：https://www.virtualdj.com/   Mac App Store  
 收费：高级功能收费，详见官网。  
@@ -263,7 +263,7 @@ Mac App Store下载：有
 
 34、Skim  
 --
-类别：PD阅读工具  
+类别：PDF阅读工具  
 开源：是  
 官网：https://skim-app.sourceforge.io/  
 收费：否  
@@ -271,7 +271,7 @@ Mac App Store下载：有
 
 35、GIMP-2.10  
 --
-类别：图片管理工具  
+类别：图像处理工具  
 开源：是  
 官网：https://www.gimp.org/  
 收费：否  
@@ -287,53 +287,71 @@ Mac App Store下载：有
 
 37、Microsoft Excel  
 --
-不解释  
+选装APP,不解释  
 
 38、Microsoft PowerPoint  
 --
-不解释  
+选装APP,不解释  
 
 39、Microsoft Word  
 --
-不解释  
+选装APP,不解释  
+
+40、鼠须管Rime  
+--
+类别：输入法  
+开源：是  
+官网：https://rime.im/  
+收费：否  
+界面：中文  
 
 
 
 二、设置Firefox使用  
 ===
-一．	隐私专用扩展  
+一．	Firefox隐私专用扩展  
 --
 1、	CanvasBlocker  
+https://addons.mozilla.org/en-US/firefox/addon/canvasblocker/  
 
 2、	Cookie AutoDelete  
+https://addons.mozilla.org/en-US/firefox/addon/cookie-autodelete/  
 
 3、	Decentraleyes  
+https://addons.mozilla.org/en-US/firefox/addon/decentraleyes/  
 
 4、	Privacy Possum  
+https://addons.mozilla.org/en-US/firefox/addon/privacy-possum/  
 
 5、	Smart HTTPS  
+https://addons.mozilla.org/en-US/firefox/addon/smart-https-revived/  
 
 6、	uBlock Origin  
+https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/  
 
 7、	User-Agent Switcher  
+https://addons.mozilla.org/en-US/firefox/addon/uaswitcher/  
 
-8、	隐私獾  
+8、	Privacy Badger  
+https://addons.mozilla.org/en-US/firefox/addon/privacy-badger17/  
 
 9、	uMatrix  
+https://addons.mozilla.org/en-US/firefox/addon/umatrix/  
 
 10、	NoScript Security Suite  
+https://addons.mozilla.org/en-US/firefox/addon/noscript/  
 
-二、隐私高级设置  
+二、Firefox隐私高级设置  
 --
 说明：
 --
-A、在浏览器的网址列輸入 "about:config" 并点击 enter 键。  
+A、在Firefox浏览器的网址栏輸入 "about:config" 并点击 enter 键。  
 
 B、点击"I'll be careful, I promise!（我了解此风险）"按钮。  
 
 C、在搜索栏填写例如"privacy.firstparty.isolate"的关键字  
 
-D、双击搜索出的条例，然后进行修改。  
+D、双击搜索出的栏目，然后进行修改。  
 
 E、重启Firefox使设置生效（有些修改可不必重启）。 
 
