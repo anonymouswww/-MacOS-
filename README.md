@@ -1,5 +1,4 @@
- # -MacOS-APP
- 个人使用MacOS软件及设置备忘录
+ # 个人使用MacOS软件及设置备忘录  
 理念：安全、隐私、快捷、高效、低成本  
 ---
 
@@ -35,7 +34,7 @@
 开源：是  
 官网：https://www.keka.io/en/  
 Mac App Store下载：有  
-收费：官网 免费。Mac App Store人民币18元 （截至2019.06.15）  
+收费：官网免费。Mac App Store人民币18元 （截至2019.06.15）  
 界面：支持中文  
 
 5、OnyX  
@@ -51,7 +50,7 @@ Mac App Store下载：有
 类别：安全工具  
 开源：否  
 官网：https://www.avg.com/  
-收费：免费下载，高级功能收费  
+收费：可免费下载，但高级功能收费，详见官网。    
 界面：英文  
 
 7、LuLu  
@@ -148,7 +147,7 @@ Mac App Store下载：有
 18、Bluetooth Explorer  
 --
 类别：蓝牙控制工具  
-开源：未知  
+开源：否    
 官网：https://developer.apple.com/bluetooth/  
 收费：否  
 界面：英文  
@@ -178,7 +177,7 @@ Mac App Store下载：有
 收费：否  
 界面：英文  
 
-22、I2PLauncher  
+22、I2P Launcher  
 --
 “非法”网上躲猫猫用的，不懂不解释。  
 
@@ -251,7 +250,7 @@ Mac App Store下载：有
 类别：音乐工具  
 开源：否  
 官网：https://www.virtualdj.com/   Mac App Store  
-收费：高级功能收费  
+收费：高级功能收费，详见官网。  
 界面：中文  
 
 33、Caliber  
